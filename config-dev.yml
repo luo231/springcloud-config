@@ -1,4 +1,4 @@
 config:
-  info: "master branch,springCloud=config 版本 1"
+  info: "master branch,springCloud=config 版本 2"
 haha:
   zhangsan: "1231"
